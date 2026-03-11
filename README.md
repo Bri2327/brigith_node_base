@@ -17,6 +17,6 @@ Proyecto de API REST desarrollado con Node.js, Express, Sequelize y documentaci�
 Accede a la documentación interactiva en:
 
 - **Swagger UI**: http://localhost:3000/api-docs
-- **Swagger UI Producción**: [Coloca aquí tu URL desplegada si tienes una]
+- **Swagger UI Producción**: 
 
 
