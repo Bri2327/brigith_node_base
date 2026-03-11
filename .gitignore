@@ -1,0 +1,5 @@
+node_modules
+.env
+# IDE - IntelliJ/WebStorm
+.idea/
+*.iml
